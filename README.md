@@ -152,7 +152,7 @@
         }
     </style>
     <!-- Google AdSense Script -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-8415580708952723/9354088713"
             crossorigin="anonymous"></script>
 </head>
 <body>
